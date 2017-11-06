@@ -11,4 +11,5 @@ There's also a basic Base MVVM Module that your files can extend. This files add
 <br>This files are on the `Base` folder.
 
 ## Credits
+Thanks for your contributions:
 [Marcio Granzotto (marciogranzotto)](https://github.com/marciogranzotto)
