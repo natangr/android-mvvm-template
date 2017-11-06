@@ -1,4 +1,4 @@
-# Android VIPER templates
+# Android MVVM templates
 Templates for creating MVVM Kotlin files on Android Studio
 
 ## Template
