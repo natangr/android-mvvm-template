@@ -9,3 +9,6 @@ on your terminal.2e
 ## Base Module
 There's also a basic Base MVVM Module that your files can extend. This files add some common functionalities that can be used on your project
 <br>This files are on the `Base` folder.
+
+## Credits
+[Marcio Granzotto (marciogranzotto)](https://github.com/marciogranzotto)
